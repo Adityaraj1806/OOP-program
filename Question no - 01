@@ -1,0 +1,11 @@
+#include <iostream> using namespace std;
+
+int main(){
+
+cout<<"ADITYA RAJ SINIGH TOMAR"<<endl; cout<<"23100BTCSE14737"<<endl;
+
+cout<<"HELLO WORLD"<<endl;
+
+return 0;
+
+}
