@@ -1,0 +1,47 @@
+#include<iostream> using namespace std;
+
+class A
+
+{
+
+public:
+
+int a,b;
+
+void get()
+
+cout<<"enter a,b"; cin>>a>>b;
+
+); class B
+
+public A
+
+public:
+
+void add()
+
+int c;
+
+c=a+b;
+
+};
+
+class C: public B
+
+{
+
+public:
+
+void display()
+
+cout<<"23100BTCSE14737"<<endl; cout<<"Adityaraj Singh Tomar"<<endl; cout<<"a is="<<a<<endl; cout<<"b is="<<b<<endl; cout<<"c is="<<<<<endl;
+
+}; int main()
+
+Π
+
+C s1;
+
+sl.get(); s1.add();
+
+s1.display();
