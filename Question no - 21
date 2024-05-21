@@ -1,0 +1,82 @@
+#include<iostream>
+
+using namespace std;
+
+class student(
+
+public:
+
+int roll no;
+
+char section;
+
+void display(){
+
+cout<<"Adityaraj singh tomar"<<endl;
+
+cout<<roll_no<<endl; cout<<section<<endl;
+
+}
+
+void set data(){
+
+roll_nom 37; section;
+
+}
+
+-};
+
+int main(){
+
+student s1;
+
+s1.set_data();
+
+s1.display();
+
+return 8;
+
+}
+#include<iostream> using namespace stc;
+
+class
+
+public: int 2
+
+class: public
+
+public: get ()
+
+cout<<"enter a"; cirosz;
+
+); class (
+
+public:
+
+int t; void set()
+
+cout<<"enter b": cirst;
+
+):
+
+class public, public <<
+
+public:
+
+int c;
+
+void adc()
+
+void display(){
+
+cout<<"Adityaraj Singh Tomar"<<end]; cout <<"23100BTCSE14783 <<endl; cout<<"a is"<<<<endl; cout<<"b is-cct<<endl; cout<<"c iseccc<<endl;
+
+int mair(O
+
+d1.get();
+
+dl.set(); dl.adc();
+
+di.display():
+
+return 0;
