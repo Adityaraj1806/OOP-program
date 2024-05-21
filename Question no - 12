@@ -1,0 +1,57 @@
+#include <iostream>
+
+using namespace stc;
+
+class Rectangle (
+
+private:
+
+double length;
+
+double width:
+
+// Parameterized constructor
+
+public:
+
+Rectangle (double ler, double wic) (
+
+length-ler; width wіс:
+
+Function to calculate the area
+
+double calculatoArez () return length width:
+
+// Function to calculate the perimeter
+
+double calculatePerimeter() { return 2 (length width);
+
+int mair() (
+
+double length, width: // Taking input from the user
+
+cout<<"ADITYA RAJ SINGH TOMAR"<<endl;
+
+cout<<"231008TCSE14737"<<endl;
+
+cout << "Enter the length of the rectangle:":
+
+cin>> length;
+
+cout << "Enter the width of the rectangle:"
+
+cin >> width;
+
+// Creating an object of Rectangle with a parameterized constructor
+
+Rectangle rect(longtt, width);
+
+//Calculating and displaying the area double area rect.calculateAres();
+
+stc::cout << "Area of the rectangle: <<< area << sto::endl;
+
+//Calculating and displaying the perimeter double perimeter rect.calculatePerimeter();
+
+stc::cout << "Perimeter of the rectangle: << perimeter << stc::end];
+
+return 0;
