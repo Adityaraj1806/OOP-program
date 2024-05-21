@@ -14,7 +14,7 @@ student s1;
 
 int main()
 
-s1.rollno=14751;
+s1.rollno=14737;
 
 s1.marks#32.5;
 
