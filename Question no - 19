@@ -1,0 +1,57 @@
+#include<iostream> using namespace std;
+
+class A
+
+{
+
+public:
+
+int a;
+
+void get()
+
+{ cout<<"enter a"; cin>>a;
+
+};
+
+class B
+
+{
+
+public:
+
+int t;
+
+void gett()
+
+cout<<"enter b"; cin>>b;
+
+}; class C: public A, public B
+
+{
+
+public:
+
+int c:
+
+void add()
+
+c=a+b;
+
+void display()
+
+{
+
+cout<<"23100BTCSE14737"<<endl; cout<<"Adityaraj Singh Tomar"<<endl; cout<<"a is="<<a<<endl; cout<<"b is="<<b<<endl; cout<<"c is="<<<<<endl;
+
+}
+
+};
+
+int main()
+
+C s1;
+
+s1.get();
+
+s1.add(); s1.display();
