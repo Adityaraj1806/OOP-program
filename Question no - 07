@@ -1,0 +1,19 @@
+#include<iostream>
+
+using namespace std;
+
+void show();
+
+int main(){
+
+show(); show();
+
+}
+
+void show (){
+
+cout<<"23100BTCSE14737"<<endl;
+
+cout<<"ADITYA RAJ SINGH TOMAR"<<endl;
+
+}
