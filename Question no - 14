@@ -1,0 +1,35 @@
+#include <iostream> using namespace std; void display (int num)
+
+{ cout<<"ADITYA RAJ SINGH TOMAR"<<endl; cout<<"23100BTCSE14737"<<endl; cout << "Integer data: " << num << endl;
+
+}
+
+void display (float num) {
+
+cout << "Float data: "<< num <<endl;
+
+}
+
+void display (string str) (
+
+cout << "String data: "<< str<<endl;
+
+}
+
+int main()
+
+{
+
+int intData = 12;
+
+float floatData = 3.14;
+
+string stringData
+
+display(intData);
+
+display (floatData);
+
+display(stringData);
+
+return 0;
