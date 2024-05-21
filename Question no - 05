@@ -1,0 +1,33 @@
+#include<iostream>
+
+using namespace std;
+
+struct student
+
+{
+
+int rollno; float marks;
+
+};
+
+student s1;
+
+int main()
+
+s1.rollno=14751;
+
+s1.marks#32.5;
+
+cout<<"ADITYA RAJ SINGH TOMAR"<<endl;
+
+cout<<"23100BTCSE14737";
+
+cout<<s1.rollno<<endl;
+
+cout<<s1.marks<<endl;
+
+cout<<"sizeofstructure"<<sizeof(s1)<<endl;
+
+return 0;
+
+}
