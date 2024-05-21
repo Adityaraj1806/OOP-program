@@ -1,0 +1,34 @@
+#include <iostream> using namespace std;
+
+int main()(
+
+int num1, num2;
+
+int sum, sub, mult;
+
+float divi
+
+cout<<"23100BTCSE14737"<<endl; <<endl;
+
+cout<<"ADITYA RAJ SINGH TOMAR"<<endl;
+
+cout<<"Enter the number:"<<endl;
+
+cin>>num1>>num2;
+
+Sun num1 num2; sub numinum2;
+
+mult numi num2;
+
+div
+
+(float) num1/num2;
+
+cout<<"The addtion is "<<sum<<endl; cout<<"The substraction is "<<sun<<endl;
+
+cout<<"The multiplication is "<<mult<<endl;
+
+cout<<"The division is "<<div<<endl;
+
+return 0;
+  }
