@@ -1,0 +1,31 @@
+#include <iostrea
+
+using namespace std; class Number (
+
+private:
+
+int num
+
+// Default constructor
+
+public:
+
+Number() num(e) ()
+
+// Parameterized constructor Number (int n) num(n) ()
+
+// Copy constructor
+
+Number (const Number Sother) C num other.num;
+
+Function to display the number void display() 1 display() cout<<"Number:"<<num<<endl;
+
+int main(
+
+// Create an object of Number using parameterized constructor
+
+Number original(10); cout<<"ADITYA RAJ SINGH TOMAR"<<endl; cout<<"23100BTCSE14737"<<endl; cout<<"Original object:"<<endl; original.display();
+
+// create a new object and initialize it using the copy constructor Number copied original; cout<<"\nCopied object (using copy constructor):"<<endl; copied.display();
+
+return 0 ;
