@@ -1,0 +1,33 @@
+#include<iostream> using namespace std;
+
+class student{
+
+public:
+
+int roll_no;
+
+char section; void display(){
+
+cout<<"Adityaraj singh tomar"<<endl;
+
+cout<<roll_no<<endl;
+
+cout<<section<<endl;
+
+} void set_data(){
+
+roll_no= 37; sectionA;
+
+}
+
+};
+
+int main(){
+
+student s1; s1.set_data();
+
+s1.display();
+
+return 0;
+
+}
