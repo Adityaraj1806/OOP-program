@@ -1,0 +1,51 @@
+#include <iostream>
+
+using namespace std;
+
+class Box (
+
+public:
+
+static int objectCount;
+
+Box (double 12.e, double b 2.e, double h 2.8)
+
+cout<<"ADITYA RAJ SINGH TOMAR"<<endl;
+
+cout<<"23100BTCSE14737"<<endl; cout <<"Constructor called"<<endl;
+
+length=1;
+
+breadth = b; height h
+
+objectcount++;
+
+double Volume (readth
+
+return length
+
+height;
+
+static int getCount() { return objectCount;
+
+private:
+
+double length; double breadth;
+
+double height;
+
+};
+
+int Box: :objectcount e;
+
+int main(void)
+
+C cout << "Inital Stage Count: <<
+
+Box::getCount() << endl;
+
+Box Box1(3.3, 1.2, 1.5);
+
+Box Box2(8.5, 6.0, 2.e); cout << "Final Stage Count: "<<Box::getCount() <<endl;
+
+return 0;
