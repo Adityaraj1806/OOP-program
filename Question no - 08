@@ -1,0 +1,28 @@
+#include<iostream>
+
+using namespace std;
+
+using namespace std;
+
+void mul(int a, int b,int c=1);
+
+int
+
+main(){ mul(8,2,5);
+
+mul(15,3,8);
+
+mul(7,16);
+
+} void mul(int a, int b,int c)
+
+{
+
+int m=a*b*c;
+
+cout<<"23100BTCSE14737"<<endl;
+
+cout<<"Aditya raj singh tomar"<<endl;
+
+cout<<m;
+}
